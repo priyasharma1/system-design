@@ -27,7 +27,8 @@ System design is a trending topic these days, most famous companies have a syste
 - Partition Tolerance
 - CAP Theorem
 - ACID Properties
-
+- CDN
+- DNS
 
 It also demands you to have through knowledge of basic **design principles** -
 - microservices
